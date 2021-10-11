@@ -1,0 +1,8 @@
+﻿Paul McCartney;Pop/Rock
+Rod Stewart;Blues
+Sting;Folk
+Michael Buble;Jazz
+Chris Brown;R&B
+Elvis Presley;Country
+Jenny Hval;Avant-Garde
+Mariza;International
